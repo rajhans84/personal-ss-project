@@ -1,0 +1,11 @@
+/silverstripe-cache/
+/.env
+/vendor/
+/themes/simple/
+/themes/wcic/
+/resources/
+/public/resources/
+/.editorconfig
+/.env.example
+/composer.lock
+/phpcs.xml.dist

@@ -1,0 +1,20 @@
+en:
+  ContactPage:
+    PLURALNAME: 'Contact Pages'
+    PLURALS:
+      one: 'A Contact Page'
+      other: '{count} Contact Pages'
+    SINGULARNAME: 'Contact Page'
+  HomePage:
+    PLURALNAME: 'Home Pages'
+    PLURALS:
+      one: 'A Home Page'
+      other: '{count} Home Pages'
+    SINGULARNAME: 'Home Page'
+  Page:
+    DESCRIPTION: 'Generic content page'
+    PLURALNAME: Pages
+    PLURALS:
+      one: 'A Page'
+      other: '{count} Pages'
+    SINGULARNAME: Page
